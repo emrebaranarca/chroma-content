@@ -1,0 +1,185 @@
+{
+ "version": 1,
+ "pages": [
+  {
+   "id": "hokusai_kajikazawa_in_kai_province",
+   "title": "Kajikazawa in Kai Province",
+   "difficulty": "Hard",
+   "category": "Art",
+   "bg": "#DBE1DE",
+   "colors": 13,
+   "regions": 345,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "hokusai_kintai_bridge_in_suo_province",
+   "title": "Kintai Bridge in Su\u014d Province",
+   "difficulty": "Hard",
+   "category": "Landmarks",
+   "bg": "#DFDFD7",
+   "colors": 17,
+   "regions": 323,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "merian_banana_flower_and_fruit",
+   "title": "Banana Flower and Fruit",
+   "difficulty": "Hard",
+   "category": "Animals",
+   "bg": "#EBE4D6",
+   "colors": 16,
+   "regions": 367,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "van_gogh_la_nuit_etoilee",
+   "title": "La Nuit \u00c9toil\u00e9e",
+   "difficulty": "Expert",
+   "category": "Expert",
+   "bg": "#B2B5B5",
+   "colors": 46,
+   "regions": 1482,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "hiroshige_fireworks_at_ryogoku_from_one",
+   "title": "Fireworks at Ryogoku From One",
+   "difficulty": "Medium",
+   "category": "Landmarks",
+   "bg": "#C4C5C3",
+   "colors": 16,
+   "regions": 138,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "audubon_roseate_spoonbill",
+   "title": "Roseate Spoonbill",
+   "difficulty": "Hard",
+   "category": "Animals",
+   "bg": "#DDD9D0",
+   "colors": 18,
+   "regions": 321,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "macke_turkish_cafe",
+   "title": "Turkish Caf\u00e9",
+   "difficulty": "Medium",
+   "category": "Art",
+   "bg": "#E7C9BB",
+   "colors": 18,
+   "regions": 167,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "seurat_parade_de_cirque",
+   "title": "Parade de Cirque",
+   "difficulty": "Expert",
+   "category": "Expert",
+   "bg": "#CAC6C8",
+   "colors": 56,
+   "regions": 1463,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "hiroshige_print_hakone_lake",
+   "title": "Print Hakone Lake",
+   "difficulty": "Hard",
+   "category": "Landmarks",
+   "bg": "#DFDFD7",
+   "colors": 18,
+   "regions": 335,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "jones_amgueddfa_cymru_grammar_of_ornament",
+   "title": "Amgueddfa Cymru Grammar of Ornament",
+   "difficulty": "Hard",
+   "category": "Patterns",
+   "bg": "#EAE7DD",
+   "colors": 18,
+   "regions": 265,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "rousseau_the_equatorial_jungle",
+   "title": "The Equatorial Jungle",
+   "difficulty": "Expert",
+   "category": "Expert",
+   "bg": "#C3C5C0",
+   "colors": 46,
+   "regions": 1500,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "aivazovsky_russian_the_ninth",
+   "title": "Russian \u00ab\u0414\u0435\u0432\u044f\u0442\u044b\u0439 \u0412\u0430\u043b\u00bb The Ninth",
+   "difficulty": "Expert",
+   "category": "Expert",
+   "bg": "#D8C7B5",
+   "colors": 56,
+   "regions": 405,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "monet_wild_poppies_near_argenteuil",
+   "title": "Wild Poppies Near Argenteuil",
+   "difficulty": "Hard",
+   "category": "Nature",
+   "bg": "#E1E0D8",
+   "colors": 15,
+   "regions": 335,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "steinlen_tournee_du_chat_noir_de",
+   "title": "Tourn\u00e9e du Chat Noir de",
+   "difficulty": "Easy",
+   "category": "Animals",
+   "bg": "#D9CBC2",
+   "colors": 12,
+   "regions": 119,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "trivikramapada",
+   "title": "Trivikramapada",
+   "difficulty": "Hard",
+   "category": "Art",
+   "bg": "#E0D8D0",
+   "colors": 17,
+   "regions": 375,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "klimt_entwurf_fur_den_wandfries_im",
+   "title": "Entwurf f\u00fcr den Wandfries im",
+   "difficulty": "Expert",
+   "category": "Expert",
+   "bg": "#DFD7CE",
+   "colors": 46,
+   "regions": 1462,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "marc_the_little_yellow_horses",
+   "title": "The Little Yellow Horses",
+   "difficulty": "Hard",
+   "category": "Animals",
+   "bg": "#D0C9C2",
+   "colors": 17,
+   "regions": 303,
+   "since": "2026-10-17"
+  },
+  {
+   "id": "sotheby_s_shaykh_sa_di_seated",
+   "title": "Shaykh Sa'di Seated",
+   "difficulty": "Hard",
+   "category": "Art",
+   "bg": "#D7D1C5",
+   "colors": 14,
+   "regions": 268,
+   "since": "2026-10-17"
+  }
+ ]
+}
