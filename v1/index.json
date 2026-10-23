@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "pages": [
   {
    "id": "hokusai_kajikazawa_in_kai_province",
@@ -239,6 +239,16 @@
    "bg": "#CBC8C1",
    "colors": 18,
    "regions": 242,
+   "since": "2026-10-23"
+  },
+  {
+   "id": "ginter_robin_from_the_birds",
+   "title": "Robin",
+   "difficulty": "Expert",
+   "category": "Christmas",
+   "bg": "#D4D3C8",
+   "colors": 55,
+   "regions": 911,
    "since": "2026-10-23"
   }
  ]
