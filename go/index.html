@@ -44,8 +44,15 @@
   // (Analytics > Acquisition > Campaigns > Generate campaign link) to see shares in App Analytics.
   var APPLE_PT = '';
   var ios = 'https://apps.apple.com/app/id6807783532' + (APPLE_PT ? ('?pt=' + APPLE_PT + '&ct=share_' + s + '&mt=8') : '');
+  var page = (q.get('page') || '').replace(/[^a-z0-9_]/g, '');        // "color the same page"
   var play = 'https://play.google.com/store/apps/details?id=io.github.emrebaranarca.chroma&referrer=' +
-             encodeURIComponent('utm_source=share&utm_medium=' + s + '&utm_campaign=card');
+             encodeURIComponent('utm_source=share&utm_medium=' + s + '&utm_campaign=card' + (page ? '&page=' + page : ''));
+  if (page) {
+    // Installed on iOS: the universal link opens that page in the app.
+    var open = document.createElement('a'); open.className = 'btn alt'; open.id = 'openapp';
+    open.href = 'https://emrebaranarca.github.io/chroma/p/' + page; open.textContent = 'Open in Chroma';
+    document.getElementById('ios').parentNode.insertBefore(open, document.getElementById('ios'));
+  }
   document.getElementById('ios').href = ios;
   document.getElementById('android').href = play;
   var ua = navigator.userAgent || '';
