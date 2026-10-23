@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "pages": [
   {
    "id": "hokusai_kajikazawa_in_kai_province",
@@ -219,6 +219,26 @@
    "bg": "#DFDFDA",
    "colors": 53,
    "regions": 1348,
+   "since": "2026-10-23"
+  },
+  {
+   "id": "holly_leaves",
+   "title": "Holly Leaves",
+   "difficulty": "Medium",
+   "category": "Christmas",
+   "bg": "#F2EFE6",
+   "colors": 8,
+   "regions": 219,
+   "since": "2026-10-23"
+  },
+  {
+   "id": "inness_a_winter_sky",
+   "title": "A Winter Sky",
+   "difficulty": "Medium",
+   "category": "Christmas",
+   "bg": "#CBC8C1",
+   "colors": 18,
+   "regions": 242,
    "since": "2026-10-23"
   }
  ]
